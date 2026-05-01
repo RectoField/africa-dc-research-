@@ -13,7 +13,7 @@ most environmental impact data is either undisclosed or reported only in
 aggregate by parent companies at a global level. This script treats data
 absence as a finding, not a void.
 
-Author: [Your Name]
+Author: Lawson Emmanuel Runo
 License: MIT
 """
 
